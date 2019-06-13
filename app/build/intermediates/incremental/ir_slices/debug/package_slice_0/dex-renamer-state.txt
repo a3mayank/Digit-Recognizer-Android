@@ -1,0 +1,4 @@
+#Fri Jun 07 16:26:18 IST 2019
+base.0=C\:\\Users\\mattri\\AndroidStudioProjects\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
