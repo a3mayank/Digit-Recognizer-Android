@@ -4,7 +4,7 @@ This is an Android App with Tensorflow to detect handwritten digits.
 
 ![image](http://narr.jp/private/miyoshi/tensorflow/mnist_screen0.png)
 
-This Android demo is based on Tensorflow tutorial.
+This is based on Tensorflow tutorial.
 
 MNIST For ML Beginners https://www.tensorflow.org/versions/r0.10/tutorials/mnist/beginners/index.html
 
