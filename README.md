@@ -1,6 +1,6 @@
 # Digit-Recognizer-Android
 
-This is a demo app for Android with Tensorflow to detect handwritten digits.
+This is an Android App with Tensorflow to detect handwritten digits.
 
 ![image](http://narr.jp/private/miyoshi/tensorflow/mnist_screen0.png)
 
